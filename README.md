@@ -1,8 +1,6 @@
 ### 👋 Hi, I’m Shreeya Patel 
 
 🎓 I’m currently pursuing my Master’s in Data Science
-🔍 Exploring SQL, Python, and data visualization to solve real-world problems
-
 
 🛠️ Skills & Tools
 
