@@ -1,16 +1,23 @@
-## Hi there 👋
+### 👋 Hi, I’m Shreeya Patel 
+
+🎓 I’m currently pursuing my Master’s in Data Science
+🔍 Exploring SQL, Python, and data visualization to solve real-world problems
+
+
+🛠️ Skills & Tools
+
+Programming & Data: Python (pandas, numpy, matplotlib), SQL (joins, subqueries, window functions)
+
+Data Science: Machine Learning, Risk Analysis, Statistical Modeling
+
+Visualization: Matplotlib, Seaborn, Power BI, Tableau
+
+Other Tools: Git, Google Colab, Jupyter Notebook
+ 
 
 <!--
 **shreeyaptl/shreeyaptl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
